@@ -3,7 +3,7 @@ Summary:	Extensions to the standard datetime module
 Summary(pl.UTF-8):	Rozszerzenia modułu datetime języka Python
 Name:		python3-dateutil
 Version:	2.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 Source0:	http://niemeyer.net/download/python-dateutil/python-%{module}-%{version}.tar.gz
